@@ -38,9 +38,13 @@
           <option name="url" value="git@gitlab.cmss.com:huanghaibo/swarm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arunma/AkkaFSM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Gitlab" />
+    <option name="cloneParentDir" value="$USER_HOME$/GitHub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
