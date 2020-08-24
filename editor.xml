@@ -6,9 +6,8 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_XML_TAGS" value="true" />
