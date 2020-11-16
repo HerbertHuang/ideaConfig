@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
+      <mapping pattern="node-id" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
