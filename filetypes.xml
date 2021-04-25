@@ -14,6 +14,8 @@
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
       <mapping ext="factories" type="spring.factories" />
     </extensionMap>
   </component>
