@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="log" type="ANSI Aware" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -16,6 +17,7 @@
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
+      <removed_mapping ext="log" approved="true" type="Log" />
     </extensionMap>
   </component>
 </application>
