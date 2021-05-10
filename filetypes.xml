@@ -1,30 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="log" type="ANSI Aware" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern="node-id" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
