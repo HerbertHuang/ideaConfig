@@ -78,9 +78,13 @@
           <option name="url" value="git@github.com:Netflix/governator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TencentBlueKing/iam-python-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/GitHub/classic" />
+    <option name="cloneParentDir" value="C:\Users\lenovo\GitHub\classic" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
