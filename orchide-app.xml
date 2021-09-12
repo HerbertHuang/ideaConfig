@@ -1,6 +1,7 @@
 <application>
   <component name="OrchideApplication">
     <option name="fileTypePatternMigratedForCollections" value="true" />
+    <option name="orchideDefinitionFilesLocationIsDefinedCounter" value="1" />
     <option name="hasEULAAccepted" value="true" />
   </component>
 </application>
