@@ -158,9 +158,13 @@
           <option name="url" value="git@gitlab.cmss.com:OSS4.0/TYCJ/starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.cmss.com:OSS4.0/TYCJ/ops-deploy-doc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Source" />
+    <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
