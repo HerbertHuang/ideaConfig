@@ -186,6 +186,10 @@
           <option name="url" value="git@gitlab.cmss.com:OSS4.0/TYCJ/loghub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.cmss.com:PMSDEV/ai-ops/ai-ops-fms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
