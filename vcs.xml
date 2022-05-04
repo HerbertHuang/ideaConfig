@@ -194,6 +194,10 @@
           <option name="url" value="git@gitlab.cmss.com:OSS4.0/TYCJ/skyEye.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://jenkins@gerrit.cmss.com:29418/SRE/Ops/ops-cicd" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
