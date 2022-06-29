@@ -18,6 +18,7 @@
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
