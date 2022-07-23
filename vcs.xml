@@ -232,7 +232,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
