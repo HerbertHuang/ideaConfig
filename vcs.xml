@@ -230,9 +230,17 @@
           <option name="url" value="git@github.com:PowerJob/PowerJob-Console.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tsturzl/prometheus-kafka-write-adaptor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AliyunContainerService/kube-eventer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
+    <option name="cloneParentDir" value="$USER_HOME$/github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
