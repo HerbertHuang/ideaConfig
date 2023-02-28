@@ -15,7 +15,7 @@
     <driver id="oracle">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="postgresql" forced-dbms="POSTGRES" jre-path="C:\Program Files\Java\jdk1.8.0_321">
+    <driver id="postgresql" forced-dbms="POSTGRES" jre-path="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home">
       <url-template name="default" template="jdbc:postgresql://[{host::suyan-pg}[:{port::5432}]][/{database:vim/[^?]+:postgres}?][\?&lt;&amp;,user={user:vnf},password={password:123456},{:identifier}={:param}&gt;]" />
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
