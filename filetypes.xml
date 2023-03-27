@@ -19,14 +19,13 @@
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="requirements.txt" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
       <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
       <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
