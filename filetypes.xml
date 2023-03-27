@@ -25,7 +25,6 @@
       <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
       <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
